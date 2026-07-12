@@ -23,10 +23,18 @@ apis:
       - type: Documentation
         url: https://www.geocod.io/
 common:
+  - type: TrustCenter
+    url: security/geocod-io-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/geocod-io-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/geocod-io-domain-security.yml
   - type: Website
     url: https://www.geocod.io/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.geocod.io/updates/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
