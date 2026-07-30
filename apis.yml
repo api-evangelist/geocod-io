@@ -1,4 +1,16 @@
 aid: geocod-io
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/geocod-io.png
 name: Geocod.io
 description: "Address geocoding / reverse geocoding in bulk"
 url: https://www.geocod.io/
